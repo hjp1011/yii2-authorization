@@ -1,4 +1,4 @@
-# YiiFrame core plug-in
+# YiiFrame auththorization
 
 Extension for Yii2 Framework to work with auththorization
 
